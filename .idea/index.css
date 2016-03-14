@@ -1,0 +1,147 @@
+
+#main-img{
+    width:100%;
+    height:32vw;
+    background: url("main-img.jpg") no-repeat;
+    background-size: contain;
+}
+
+#main{
+    background: #fafafa;
+    width:80%;
+    margin:0 auto;
+}
+.main-conent{
+    float:left;
+    width:20%;
+    height:250px;
+    text-align: center;
+    margin-right:2.5%;
+    margin-left:2.5%;
+
+}
+.main-conent img{
+    margin:50px 0 20px 0;
+}
+.main-style1{
+    margin:0 auto;
+    width:80%;
+    color:#afafaf;
+    text-align: left;
+    font-size:0.8em;
+    margin-top:20px;
+}
+.main-people{
+    color:#afafaf;
+    font-size:0.8em;
+}
+.main-color{
+    color:#26a26f;
+    margin-top:20px;
+}
+#main-color{
+    margin-top:100px;
+}
+.main-color img{
+    margin:0;
+}
+.clear{
+    clear:both;
+}
+#box-word{
+    text-align: center;
+    margin:50px;
+}
+.box{
+    float:left;
+}
+.box div{
+    float:left;
+}
+.round{
+    width:50px;
+    height:50px;
+    border-radius: 100px;
+    background: #fff;
+    box-shadow:0 8px 8px 3px #ededed;
+    text-align: center;
+    line-height: 50px;
+}
+.box-br{
+    font-size:0.8em;
+    color:#afafaf;
+    margin-left:20px;
+    margin-top:12px;
+}
+.box img{
+    margin:12px;
+}
+.space{
+    clear:both;
+    width:100%;
+    height:60px;
+}
+#space{
+    height:30px;
+}
+.photo{
+    width:20%;
+    text-align: center;
+    background: #fff;
+    box-shadow:0 8px 8px 3px #ededed;
+    display: inline-block;
+    margin-left:2%;
+    margin-right:2%;
+}
+.photo-int{
+    width:90%;
+    text-align: left;
+    margin:0 auto;
+    font-size: 0.8em;
+    color:#cdcdcd;
+    margin-bottom:20px;
+}
+.photo-name{
+    font-weight: bold;
+    margin:20px 0;
+}
+#scroll{
+    text-align: center;
+    margin:30px 0;
+}
+#trad{
+    width:100%;
+    height:100px;
+    background: #fff;
+    box-shadow: 0 8px 8px 3px #ededed;
+}
+.trad{
+    float:left;
+    height:100px;
+    width:20%;
+    text-align: center;
+}
+.trad a:hover{
+    box-shadow: 8px 0 3px 4px #ededed;
+    box-shadow: -8px 0 3px 4px #ededed;
+}
+.trad img{
+    padding:20px;
+}
+.friendly{
+    text-align: center;
+    height:50px;
+    line-height: 50px;
+}
+#friend{
+    background: #fff;
+    margin-top:50px;
+    font-size:0.8em;
+    color:#ababab;
+}
+#friend li{
+    float:left;
+    margin-right:30px;
+    margin-left:20px;
+    margin-bottom: 20px;
+}

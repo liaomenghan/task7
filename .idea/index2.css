@@ -1,0 +1,48 @@
+#main{
+    width:80%;
+    margin:0 auto;
+    background: #fafafa;
+}
+.nav{
+    margin:2vw 0;
+    font-size:1em;
+    padding-bottom: 2vw;
+    border-bottom: solid 1px #ededed;
+}
+.nav span{
+    color:#29b078;
+}
+.nav1{
+    padding-bottom: 2vw;
+    margin:2vw 0;
+    font-size:0.8em;
+    border-bottom: solid 1px #ededed;
+}
+table,tr,td{
+    padding:10px;
+    border:solid 1px #ababab;
+    border-collapse: collapse;
+}
+table{
+    width:30vw;
+    margin:2vw;
+    box-shadow: 8px 0 3px 4px #ededed;
+}
+.image{
+    float:left;
+    margin-right:20px;
+}
+.color{
+    color:#ababab;
+    font-size:0.9em;
+
+}
+.right{
+    float: right;
+}
+.size{
+    font-size:0.95em;
+}
+.box{
+
+}
